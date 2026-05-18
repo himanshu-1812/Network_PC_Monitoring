@@ -115,6 +115,6 @@ This project is open-source. Feel free to use and modify it for educational purp
  
 ## 👨‍💻 Author
  
-**Anish2124**
-- GitHub: [@Anish2124](https://github.com/Anish2124)
+**himanshu-1812**
+- GitHub: [@himanshu-1812](https://github.com/himanshu-1812)
 ---
